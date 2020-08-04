@@ -27,13 +27,20 @@
    2. 算术运算符
    3. 字符的+操作
    4. 字符串的+操作
+   
 2. 赋值运算符
+
 3. 自增自减运算符
+
 4. 关系运算符
+
 5. 逻辑运算符
+   
    1. 短路逻辑运算符
+   
 6. 三元运算符：
-链接：https://github.com/xbhog/JavaBasis/blob/master/JavaStudy/src/day2/demo/Relationship.java
+
+  链接：https://github.com/xbhog/JavaBasis/blob/master/JavaStudy/src/day2/demo/Relationship.java
 
 链接：https://github.com/xbhog/JavaBasis/blob/master/JavaStudy/src/day2/demo/countSum.java
 
