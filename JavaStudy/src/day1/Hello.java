@@ -1,4 +1,4 @@
-package HelloWorld.demo;
+package day1;
 
 import java.net.SocketOption;
 

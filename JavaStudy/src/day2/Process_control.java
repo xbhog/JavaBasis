@@ -1,4 +1,4 @@
-package day2.demo;
+package day2;
 
 import javax.swing.*;
 import java.util.Scanner;

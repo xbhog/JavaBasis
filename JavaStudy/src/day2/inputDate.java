@@ -1,4 +1,4 @@
-package day2.demo;
+package day2;
 
 //以通过 Scanner 类来获取用户的输入
 //数据输入（应用）

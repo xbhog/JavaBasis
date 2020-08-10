@@ -1,4 +1,4 @@
-package day2.demo;
+package day2;
 //关系运算符--三元运算符
 public class Relationship {
     public static void main(String[] args) {

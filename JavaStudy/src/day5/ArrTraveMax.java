@@ -29,7 +29,7 @@ import java.util.Arrays;
                     System.out.print(arr[x]);
                 }
                 else {
-                    System.out.print(arr[x]+",");
+                    System.out.print(arr[x]+", ");
 
                 }
         }
@@ -51,7 +51,7 @@ public class ArrTraveMax{
     public static void main(String[] args) {
         int[] array = {12,32,56,98,10};
         int flag = getmax(array);
-        System.out.println(flag);
+        System.out.println("最大值："+flag);
     }
 
     public static int getmax(int[] array) {

@@ -1,4 +1,4 @@
-package day2.demo;
+package day2;
 //算数运算符---自增自减运算符
 public class countSum {
     public static void main(String[] args) {
