@@ -8,6 +8,9 @@ package day7.encapsulation;
     被private修饰的成员，只能在本类进行访问，针对private修饰的成员变量，如果需要被其他类使用，提供相应的操作
     提供“get变量名()”方法，用于获取成员变量的值，方法用public修饰
     提供“set变量名(参数)”方法，用于设置成员变量的值，方法用public修饰
+    *
+    *
+    * 好处：可以在方法中设置条件，对测试端传入的数据进行判断，灵活性高
 * */
 public class EncapsulationDemo {
     private String name;

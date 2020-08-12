@@ -4,6 +4,8 @@ package day7.thiskeyword;
 * this修饰的变量用于指代成员变量，其主要作用是（区分局部变量和成员变量的重名问题）
     方法的形参如果与成员变量同名，不带this修饰的变量指的是形参，而不是成员变量
     方法的形参没有与成员变量同名，不带this修饰的变量指的是成员变量
+    * this修饰的就是成员变量，反之是局部变量
+    * this代表当前调用方法的引用，哪个对象调用的方法，this就代表哪一个对象
 * */
 public class Thisdemo {
     private String name;
